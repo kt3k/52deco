@@ -50,7 +50,7 @@ deco.class(decorator, Foo)
 
 The above is equivalent of:
 
-```
+```js
 @decorator
 class Foo {
   ...
