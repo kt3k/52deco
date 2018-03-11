@@ -1,5 +1,8 @@
 # 52deco v1.0.0
 
+[![CircleCI](https://circleci.com/gh/kt3k/52deco.svg?style=svg)](https://circleci.com/gh/kt3k/52deco)
+[![codecov](https://codecov.io/gh/kt3k/52deco/branch/master/graph/badge.svg)](https://codecov.io/gh/kt3k/52deco)
+
 > Use decorator without transpilation
 
 52deco is a small utility for performing the same operation what ESNext decorators do. Decorators Proposal has been changing a lot and the only [babel transpilation][babel-plugin-transform-decorators-legacy] available today is outdated and not reliable. This tool supports using decorator with simple helper function.
