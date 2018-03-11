@@ -1,0 +1,32 @@
+{
+  "name": "52deco",
+  "version": "0.1.0",
+  "description": "Use decorator without transpilation",
+  "main": "index.js",
+  "devDependencies": {
+    "codecov": "^3.0.0",
+    "kocha": "^1.9.1",
+    "nyc": "^11.4.1",
+    "standard": "^11.0.0"
+  },
+  "scripts": {
+    "test": "kocha test.js",
+    "lint": "standard",
+    "codecov": "nyc npm test && codecov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kt3k/52deco.git"
+  },
+  "keywords": [
+    "decorators",
+    "decorator",
+    "esnext"
+  ],
+  "author": "Yoshiya Hinosawa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kt3k/52deco/issues"
+  },
+  "homepage": "https://github.com/kt3k/52deco#readme"
+}
