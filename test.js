@@ -28,6 +28,14 @@ describe('deco.method', () => {
 
     foo.method()
   })
+
+  it('throws when the specified key does not exist', () => {
+    class Foo {}
+
+    assert.throws(() => {
+      deco.method(() => {}, Foo, 'bar')
+    })
+  })
 })
 
 describe('deco.class', () => {

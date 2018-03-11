@@ -28,5 +28,11 @@
   "bugs": {
     "url": "https://github.com/kt3k/52deco/issues"
   },
-  "homepage": "https://github.com/kt3k/52deco#readme"
+  "homepage": "https://github.com/kt3k/52deco#readme",
+  "nyc": {
+    "reporter": [
+      "text",
+      "lcov"
+    ]
+  }
 }
