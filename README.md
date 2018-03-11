@@ -1,4 +1,4 @@
-# 52deco v0.1.0
+# 52deco v1.0.0
 
 > Use decorator without transpilation
 
