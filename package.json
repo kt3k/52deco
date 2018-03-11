@@ -1,6 +1,6 @@
 {
   "name": "52deco",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use decorator without transpilation",
   "main": "index.js",
   "devDependencies": {

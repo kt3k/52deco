@@ -1,4 +1,4 @@
-# 52deco v1.0.0
+# 52deco v1.0.1
 
 [![CircleCI](https://circleci.com/gh/kt3k/52deco.svg?style=svg)](https://circleci.com/gh/kt3k/52deco)
 [![codecov](https://codecov.io/gh/kt3k/52deco/branch/master/graph/badge.svg)](https://codecov.io/gh/kt3k/52deco)
